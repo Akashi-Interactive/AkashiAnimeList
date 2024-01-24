@@ -1,4 +1,4 @@
-package cat.pedralbes.myapp
+package cat.pedralbes.aniapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

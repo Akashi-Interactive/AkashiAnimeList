@@ -1,4 +1,4 @@
-package cat.pedralbes.myapp
+package cat.pedralbes.aniapp
 
 import org.junit.Test
 
